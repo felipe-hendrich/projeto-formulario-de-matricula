@@ -31,6 +31,8 @@ main {
 aside {
   background-color: var(--surface-secondary);
   padding: 4rem;
+  max-width: 39rem;
+  max-height: 53rem;
 
   & .aside-container {
     max-width: 31rem;
